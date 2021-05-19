@@ -5,7 +5,7 @@ Simple coutdown app created with ReactJS
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Author](#author)
-## General infor (#general-info)
+## General infor 
 Just a simple countdown app, I created it to practice thinking and syntax in ReactJS
 ## Requirements
 Project is created with: 
