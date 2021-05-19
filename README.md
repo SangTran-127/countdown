@@ -5,11 +5,11 @@ Simple coutdown app created with ReactJS
 * [Requirements](#requirements)
 * [Installation](#installation)
 * [Author](#author)
-## General infor 
+## General infor (#general-info)
 Just a simple countdown app, I created it to practice thinking and syntax in ReactJS
 ## Requirements
 Project is created with: 
-* React 16.8.0
+* ReactJS 16.8.0
 * ES6
 ## Installation
 to run this project, install it locally using npm: 
