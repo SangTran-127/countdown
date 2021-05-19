@@ -2,5 +2,24 @@
 Simple coutdown app created with ReactJS
 ## Table of contents
 * [General info](#general-info)
-* [Technologies](#technologies)
-* [Setup](#setup)
+* [Requirements](#requirements)
+* [Installation](#installation)
+* [Author](#author)
+## General infor 
+Just a simple countdown app, I created it to practice thinking and syntax in ReactJS
+## Requirements
+Project is created with: 
+* React 16.8.0
+* ES6
+## Installation
+to run this project, install it locally using npm: 
+With Yarn:
+```
+yarn add count-down
+```
+With npm: 
+```
+npm install --save count-down
+```
+## Author
+- [Sang Tran](https://www.facebook.com/sangtqs)
